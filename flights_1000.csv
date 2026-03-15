@@ -1,0 +1,1001 @@
+flight_id,airline,source_city,destination_city,departure_hour,duration_hours,total_seats
+201,SpiceJet,Kolkata,Mumbai,3,2,133
+202,Air India,Hyderabad,Chennai,19,1,153
+203,SpiceJet,Chennai,Chennai,20,2,168
+204,Indigo,Pune,Kolkata,17,4,173
+205,Vistara,Chennai,Chennai,17,4,150
+206,Vistara,Mumbai,Bangalore,15,2,177
+207,Indigo,Delhi,Mumbai,8,2,161
+208,Air India,Kolkata,Pune,17,3,177
+209,Indigo,Mumbai,Mumbai,21,4,149
+210,SpiceJet,Kolkata,Bangalore,1,4,144
+211,Indigo,Mumbai,Kolkata,20,3,182
+212,Indigo,Mumbai,Kolkata,3,4,138
+213,Air India,Ahmedabad,Delhi,11,2,191
+214,SpiceJet,Bangalore,Mumbai,6,1,127
+215,Akasa Air,Bangalore,Ahmedabad,14,1,122
+216,Akasa Air,Hyderabad,Ahmedabad,6,4,186
+217,Vistara,Delhi,Kolkata,21,3,136
+218,Indigo,Pune,Chennai,20,2,133
+219,Vistara,Pune,Kolkata,16,1,128
+220,Air India,Pune,Kolkata,15,2,181
+221,Akasa Air,Ahmedabad,Kolkata,18,4,140
+222,Indigo,Mumbai,Kolkata,8,4,195
+223,Air India,Bangalore,Ahmedabad,13,1,156
+224,Air India,Delhi,Ahmedabad,16,4,130
+225,Indigo,Mumbai,Pune,4,3,139
+226,Air India,Kolkata,Pune,1,4,154
+227,Indigo,Bangalore,Delhi,19,4,172
+228,Indigo,Bangalore,Kolkata,15,4,166
+229,SpiceJet,Chennai,Ahmedabad,13,2,194
+230,Vistara,Chennai,Mumbai,13,2,171
+231,Air India,Ahmedabad,Bangalore,0,1,127
+232,Air India,Delhi,Delhi,2,1,123
+233,SpiceJet,Kolkata,Ahmedabad,6,1,146
+234,SpiceJet,Delhi,Mumbai,14,4,163
+235,SpiceJet,Delhi,Kolkata,18,2,159
+236,Akasa Air,Ahmedabad,Hyderabad,19,3,166
+237,Akasa Air,Ahmedabad,Kolkata,1,4,163
+238,Akasa Air,Mumbai,Pune,18,4,167
+239,Indigo,Hyderabad,Bangalore,8,4,171
+240,Air India,Ahmedabad,Ahmedabad,18,3,187
+241,Vistara,Delhi,Ahmedabad,4,1,130
+242,Indigo,Chennai,Chennai,17,3,196
+243,Air India,Hyderabad,Bangalore,15,1,192
+244,Air India,Mumbai,Chennai,3,3,123
+245,SpiceJet,Hyderabad,Bangalore,11,2,195
+246,SpiceJet,Pune,Pune,6,4,192
+247,Indigo,Kolkata,Chennai,13,4,196
+248,SpiceJet,Hyderabad,Mumbai,22,4,167
+249,Air India,Delhi,Chennai,11,1,145
+250,SpiceJet,Mumbai,Delhi,2,3,196
+251,Akasa Air,Kolkata,Mumbai,4,2,158
+252,SpiceJet,Delhi,Delhi,16,3,177
+253,Air India,Kolkata,Kolkata,9,4,138
+254,Indigo,Chennai,Bangalore,9,2,196
+255,Vistara,Pune,Mumbai,10,2,196
+256,SpiceJet,Chennai,Bangalore,16,4,177
+257,Air India,Delhi,Kolkata,4,3,147
+258,Vistara,Delhi,Hyderabad,12,4,185
+259,Vistara,Delhi,Ahmedabad,9,3,129
+260,Akasa Air,Bangalore,Bangalore,8,2,196
+261,Vistara,Pune,Kolkata,16,2,177
+262,Air India,Kolkata,Bangalore,0,4,192
+263,Air India,Ahmedabad,Kolkata,3,2,133
+264,SpiceJet,Delhi,Delhi,3,1,134
+265,SpiceJet,Delhi,Kolkata,17,2,152
+266,SpiceJet,Kolkata,Chennai,8,1,136
+267,Vistara,Ahmedabad,Hyderabad,17,2,143
+268,Vistara,Chennai,Bangalore,13,4,149
+269,Akasa Air,Chennai,Kolkata,14,4,181
+270,SpiceJet,Delhi,Kolkata,5,1,132
+271,Indigo,Mumbai,Bangalore,23,4,181
+272,Akasa Air,Bangalore,Ahmedabad,9,2,166
+273,Indigo,Chennai,Hyderabad,14,2,135
+274,Vistara,Mumbai,Hyderabad,3,4,185
+275,Akasa Air,Bangalore,Kolkata,17,2,162
+276,Akasa Air,Delhi,Mumbai,17,3,127
+277,Air India,Pune,Delhi,16,3,122
+278,Vistara,Hyderabad,Hyderabad,11,2,131
+279,Vistara,Hyderabad,Hyderabad,6,4,135
+280,Akasa Air,Delhi,Pune,15,1,197
+281,Vistara,Chennai,Chennai,10,4,199
+282,Akasa Air,Mumbai,Hyderabad,13,1,178
+283,Air India,Pune,Delhi,2,4,168
+284,Akasa Air,Kolkata,Chennai,18,2,182
+285,Vistara,Bangalore,Chennai,17,3,181
+286,Vistara,Delhi,Bangalore,9,4,168
+287,Akasa Air,Pune,Bangalore,5,1,170
+288,Akasa Air,Ahmedabad,Bangalore,12,3,152
+289,Akasa Air,Pune,Bangalore,9,1,149
+290,SpiceJet,Chennai,Pune,17,2,178
+291,Vistara,Ahmedabad,Hyderabad,19,3,195
+292,Vistara,Bangalore,Bangalore,15,1,134
+293,SpiceJet,Ahmedabad,Kolkata,5,4,142
+294,Akasa Air,Pune,Mumbai,12,2,197
+295,Air India,Chennai,Bangalore,3,2,164
+296,Akasa Air,Ahmedabad,Hyderabad,22,2,181
+297,Akasa Air,Mumbai,Bangalore,13,4,198
+298,SpiceJet,Chennai,Pune,0,4,190
+299,Vistara,Mumbai,Delhi,19,3,134
+300,Akasa Air,Mumbai,Delhi,4,4,165
+301,Vistara,Ahmedabad,Hyderabad,7,3,183
+302,Indigo,Ahmedabad,Kolkata,11,2,165
+303,Vistara,Kolkata,Delhi,1,3,175
+304,Air India,Kolkata,Ahmedabad,11,1,163
+305,Air India,Pune,Delhi,4,2,194
+306,Akasa Air,Chennai,Mumbai,21,2,148
+307,Vistara,Kolkata,Hyderabad,4,3,181
+308,Akasa Air,Mumbai,Kolkata,12,2,171
+309,SpiceJet,Kolkata,Hyderabad,8,4,173
+310,Air India,Bangalore,Delhi,9,1,176
+311,Akasa Air,Pune,Delhi,0,3,185
+312,SpiceJet,Chennai,Delhi,2,3,141
+313,Akasa Air,Chennai,Chennai,17,2,139
+314,Vistara,Hyderabad,Pune,11,4,152
+315,Vistara,Chennai,Bangalore,2,2,191
+316,Vistara,Pune,Ahmedabad,8,2,144
+317,Vistara,Bangalore,Pune,1,3,165
+318,Indigo,Chennai,Hyderabad,2,2,192
+319,SpiceJet,Hyderabad,Ahmedabad,13,1,176
+320,SpiceJet,Pune,Mumbai,3,2,124
+321,Vistara,Mumbai,Bangalore,18,2,174
+322,Indigo,Delhi,Mumbai,12,3,180
+323,Vistara,Delhi,Kolkata,6,2,127
+324,Indigo,Mumbai,Chennai,11,4,135
+325,Vistara,Kolkata,Hyderabad,2,3,167
+326,Air India,Chennai,Chennai,22,2,180
+327,Air India,Ahmedabad,Hyderabad,22,1,134
+328,Akasa Air,Delhi,Mumbai,8,1,184
+329,Vistara,Kolkata,Mumbai,1,3,141
+330,SpiceJet,Delhi,Mumbai,21,3,122
+331,Akasa Air,Mumbai,Hyderabad,8,2,173
+332,Air India,Chennai,Delhi,11,4,133
+333,Vistara,Chennai,Mumbai,11,2,155
+334,Akasa Air,Kolkata,Chennai,14,1,186
+335,Vistara,Mumbai,Kolkata,1,4,129
+336,Air India,Kolkata,Bangalore,17,4,168
+337,Akasa Air,Chennai,Hyderabad,12,4,184
+338,Air India,Ahmedabad,Ahmedabad,13,2,176
+339,Indigo,Chennai,Chennai,4,1,146
+340,Air India,Pune,Pune,9,3,194
+341,Vistara,Ahmedabad,Kolkata,11,2,124
+342,SpiceJet,Kolkata,Pune,9,3,190
+343,Air India,Pune,Bangalore,23,4,176
+344,SpiceJet,Mumbai,Delhi,10,4,134
+345,Indigo,Bangalore,Mumbai,1,2,195
+346,Akasa Air,Delhi,Hyderabad,4,1,149
+347,Akasa Air,Pune,Chennai,6,4,139
+348,SpiceJet,Delhi,Ahmedabad,5,3,156
+349,Akasa Air,Hyderabad,Mumbai,21,3,122
+350,Air India,Mumbai,Chennai,22,2,192
+351,SpiceJet,Bangalore,Hyderabad,2,3,160
+352,Vistara,Hyderabad,Pune,12,1,158
+353,Air India,Hyderabad,Mumbai,2,4,145
+354,Air India,Chennai,Bangalore,23,3,121
+355,Air India,Hyderabad,Delhi,20,3,142
+356,Vistara,Mumbai,Bangalore,5,4,142
+357,Indigo,Pune,Delhi,10,2,135
+358,Akasa Air,Mumbai,Kolkata,16,3,128
+359,SpiceJet,Pune,Chennai,9,2,132
+360,Indigo,Hyderabad,Mumbai,11,2,147
+361,SpiceJet,Hyderabad,Mumbai,16,3,146
+362,Akasa Air,Ahmedabad,Kolkata,3,1,170
+363,Vistara,Bangalore,Delhi,1,2,183
+364,Air India,Pune,Pune,10,3,171
+365,Air India,Hyderabad,Hyderabad,6,2,157
+366,Vistara,Chennai,Bangalore,1,4,184
+367,Indigo,Ahmedabad,Kolkata,17,1,137
+368,Indigo,Delhi,Ahmedabad,20,1,182
+369,SpiceJet,Ahmedabad,Ahmedabad,3,4,170
+370,Vistara,Bangalore,Chennai,7,4,128
+371,Indigo,Mumbai,Kolkata,19,2,132
+372,Vistara,Bangalore,Bangalore,13,4,159
+373,Akasa Air,Delhi,Bangalore,11,1,174
+374,Air India,Ahmedabad,Chennai,21,4,198
+375,Air India,Pune,Chennai,20,3,162
+376,Air India,Mumbai,Mumbai,17,3,163
+377,Vistara,Mumbai,Bangalore,10,2,187
+378,Vistara,Pune,Hyderabad,7,1,152
+379,SpiceJet,Kolkata,Ahmedabad,1,3,143
+380,Air India,Kolkata,Hyderabad,14,4,155
+381,SpiceJet,Bangalore,Delhi,8,3,129
+382,Air India,Hyderabad,Kolkata,18,3,139
+383,SpiceJet,Kolkata,Chennai,19,2,194
+384,SpiceJet,Bangalore,Mumbai,7,4,131
+385,Akasa Air,Kolkata,Hyderabad,18,4,181
+386,SpiceJet,Delhi,Pune,4,4,137
+387,Vistara,Chennai,Ahmedabad,10,2,182
+388,SpiceJet,Hyderabad,Mumbai,14,4,144
+389,Air India,Bangalore,Mumbai,7,4,131
+390,SpiceJet,Chennai,Hyderabad,18,3,140
+391,Indigo,Chennai,Pune,22,3,144
+392,Air India,Ahmedabad,Delhi,7,4,130
+393,Indigo,Kolkata,Hyderabad,18,1,183
+394,Air India,Ahmedabad,Pune,17,1,192
+395,Vistara,Pune,Mumbai,9,4,169
+396,Vistara,Delhi,Ahmedabad,6,1,181
+397,Vistara,Delhi,Pune,8,2,168
+398,Indigo,Delhi,Mumbai,0,3,133
+399,Akasa Air,Hyderabad,Kolkata,18,2,120
+400,Air India,Mumbai,Hyderabad,4,3,144
+401,Vistara,Hyderabad,Chennai,18,1,178
+402,Air India,Bangalore,Hyderabad,0,1,191
+403,Indigo,Chennai,Kolkata,14,4,188
+404,Akasa Air,Chennai,Bangalore,15,1,124
+405,Indigo,Ahmedabad,Bangalore,22,1,138
+406,Air India,Mumbai,Bangalore,6,4,142
+407,Akasa Air,Bangalore,Hyderabad,11,4,128
+408,Akasa Air,Mumbai,Delhi,7,3,169
+409,Indigo,Chennai,Hyderabad,4,1,135
+410,Vistara,Kolkata,Ahmedabad,9,3,152
+411,Air India,Hyderabad,Kolkata,20,3,121
+412,SpiceJet,Delhi,Ahmedabad,4,2,133
+413,SpiceJet,Chennai,Kolkata,16,1,120
+414,Indigo,Pune,Chennai,4,1,177
+415,Air India,Delhi,Pune,21,2,135
+416,Air India,Chennai,Hyderabad,14,3,198
+417,Indigo,Hyderabad,Hyderabad,12,1,166
+418,Air India,Mumbai,Mumbai,0,3,163
+419,Vistara,Kolkata,Kolkata,10,2,199
+420,Indigo,Kolkata,Mumbai,22,4,133
+421,Vistara,Delhi,Mumbai,0,3,143
+422,Air India,Hyderabad,Hyderabad,10,1,174
+423,Indigo,Kolkata,Delhi,17,4,134
+424,Air India,Kolkata,Pune,17,3,191
+425,Indigo,Bangalore,Pune,20,3,153
+426,Air India,Pune,Ahmedabad,15,4,121
+427,Vistara,Delhi,Kolkata,12,4,146
+428,Vistara,Mumbai,Chennai,6,4,193
+429,Air India,Kolkata,Kolkata,0,1,191
+430,Indigo,Bangalore,Delhi,15,1,142
+431,SpiceJet,Hyderabad,Delhi,0,3,187
+432,Vistara,Kolkata,Pune,16,3,133
+433,Vistara,Ahmedabad,Bangalore,5,2,182
+434,SpiceJet,Pune,Mumbai,1,1,184
+435,Air India,Mumbai,Mumbai,16,3,187
+436,Indigo,Hyderabad,Pune,5,4,182
+437,Air India,Hyderabad,Kolkata,13,4,183
+438,Akasa Air,Delhi,Delhi,17,1,151
+439,Vistara,Kolkata,Kolkata,5,4,198
+440,Akasa Air,Delhi,Chennai,9,2,132
+441,Vistara,Mumbai,Bangalore,23,3,185
+442,Vistara,Ahmedabad,Pune,17,3,138
+443,Akasa Air,Kolkata,Mumbai,8,3,143
+444,Akasa Air,Chennai,Hyderabad,7,1,130
+445,Air India,Kolkata,Kolkata,9,4,178
+446,Akasa Air,Ahmedabad,Delhi,16,2,134
+447,Air India,Chennai,Hyderabad,22,1,129
+448,Air India,Hyderabad,Chennai,5,3,160
+449,Air India,Delhi,Pune,13,2,146
+450,Vistara,Pune,Kolkata,21,3,179
+451,Vistara,Kolkata,Mumbai,21,3,192
+452,Akasa Air,Pune,Kolkata,5,1,171
+453,Vistara,Kolkata,Bangalore,6,3,147
+454,Akasa Air,Hyderabad,Ahmedabad,11,2,184
+455,Vistara,Delhi,Hyderabad,2,3,136
+456,Indigo,Mumbai,Bangalore,13,4,163
+457,Indigo,Mumbai,Chennai,21,3,129
+458,Akasa Air,Mumbai,Mumbai,18,1,182
+459,Vistara,Kolkata,Hyderabad,22,2,166
+460,Vistara,Kolkata,Chennai,15,1,157
+461,Air India,Pune,Bangalore,6,4,189
+462,SpiceJet,Delhi,Bangalore,7,3,195
+463,Akasa Air,Ahmedabad,Ahmedabad,17,1,172
+464,SpiceJet,Kolkata,Hyderabad,12,1,197
+465,SpiceJet,Delhi,Mumbai,20,1,163
+466,Akasa Air,Pune,Bangalore,8,1,193
+467,Vistara,Kolkata,Pune,9,4,173
+468,Akasa Air,Mumbai,Ahmedabad,20,4,139
+469,SpiceJet,Mumbai,Chennai,22,3,198
+470,Vistara,Hyderabad,Hyderabad,8,3,150
+471,Indigo,Chennai,Delhi,14,2,126
+472,Akasa Air,Bangalore,Delhi,19,4,177
+473,Akasa Air,Ahmedabad,Mumbai,1,1,129
+474,Vistara,Chennai,Pune,12,1,129
+475,Indigo,Kolkata,Bangalore,1,2,158
+476,Indigo,Delhi,Delhi,18,1,147
+477,Vistara,Kolkata,Mumbai,1,2,149
+478,Air India,Delhi,Chennai,2,3,156
+479,Akasa Air,Delhi,Ahmedabad,5,4,186
+480,Akasa Air,Chennai,Pune,2,2,162
+481,SpiceJet,Bangalore,Pune,9,1,198
+482,Vistara,Hyderabad,Kolkata,23,2,171
+483,SpiceJet,Chennai,Mumbai,5,3,175
+484,SpiceJet,Bangalore,Mumbai,22,1,195
+485,Indigo,Mumbai,Kolkata,15,3,187
+486,Akasa Air,Mumbai,Ahmedabad,16,3,128
+487,SpiceJet,Delhi,Bangalore,18,2,142
+488,Indigo,Pune,Mumbai,2,3,182
+489,Vistara,Kolkata,Kolkata,17,1,180
+490,SpiceJet,Kolkata,Bangalore,6,3,159
+491,Akasa Air,Delhi,Ahmedabad,8,3,163
+492,SpiceJet,Pune,Bangalore,19,2,143
+493,Vistara,Ahmedabad,Hyderabad,11,3,170
+494,SpiceJet,Bangalore,Pune,4,4,177
+495,Akasa Air,Ahmedabad,Chennai,2,2,152
+496,Indigo,Ahmedabad,Pune,10,2,135
+497,Akasa Air,Mumbai,Pune,3,1,141
+498,Indigo,Ahmedabad,Hyderabad,4,1,176
+499,Air India,Kolkata,Bangalore,0,1,181
+500,Akasa Air,Chennai,Bangalore,17,1,190
+501,Akasa Air,Pune,Mumbai,11,4,191
+502,Vistara,Bangalore,Hyderabad,12,2,189
+503,SpiceJet,Mumbai,Mumbai,8,3,149
+504,Indigo,Ahmedabad,Hyderabad,1,1,142
+505,Indigo,Chennai,Mumbai,4,1,151
+506,Vistara,Pune,Delhi,12,1,176
+507,Vistara,Delhi,Kolkata,15,3,128
+508,SpiceJet,Delhi,Pune,15,1,150
+509,SpiceJet,Delhi,Pune,23,3,190
+510,Akasa Air,Kolkata,Ahmedabad,2,2,128
+511,Air India,Bangalore,Chennai,21,2,132
+512,SpiceJet,Delhi,Kolkata,3,2,177
+513,Vistara,Kolkata,Bangalore,10,4,122
+514,SpiceJet,Hyderabad,Chennai,22,3,154
+515,Indigo,Kolkata,Delhi,13,1,140
+516,Air India,Mumbai,Ahmedabad,2,1,183
+517,Akasa Air,Kolkata,Chennai,15,1,171
+518,Indigo,Bangalore,Ahmedabad,21,1,153
+519,Indigo,Chennai,Pune,14,4,154
+520,Air India,Ahmedabad,Bangalore,9,1,134
+521,Akasa Air,Kolkata,Delhi,8,4,125
+522,Vistara,Delhi,Pune,10,3,151
+523,Akasa Air,Mumbai,Kolkata,15,2,171
+524,SpiceJet,Pune,Mumbai,9,1,147
+525,Indigo,Delhi,Hyderabad,16,2,183
+526,SpiceJet,Mumbai,Delhi,18,3,198
+527,Vistara,Hyderabad,Bangalore,1,3,197
+528,SpiceJet,Ahmedabad,Ahmedabad,23,1,138
+529,Akasa Air,Pune,Chennai,22,3,134
+530,SpiceJet,Hyderabad,Kolkata,1,2,125
+531,Vistara,Chennai,Chennai,5,1,192
+532,Vistara,Mumbai,Delhi,18,4,157
+533,Vistara,Hyderabad,Kolkata,7,1,145
+534,Akasa Air,Ahmedabad,Bangalore,2,2,170
+535,Vistara,Ahmedabad,Delhi,13,1,192
+536,Indigo,Chennai,Bangalore,15,1,172
+537,Vistara,Ahmedabad,Chennai,0,2,175
+538,SpiceJet,Mumbai,Pune,20,1,178
+539,SpiceJet,Mumbai,Kolkata,2,1,189
+540,SpiceJet,Ahmedabad,Mumbai,21,2,197
+541,Akasa Air,Hyderabad,Pune,17,3,177
+542,SpiceJet,Mumbai,Mumbai,8,2,132
+543,Akasa Air,Delhi,Chennai,5,1,162
+544,Akasa Air,Ahmedabad,Ahmedabad,22,4,195
+545,Vistara,Mumbai,Kolkata,20,4,170
+546,Indigo,Bangalore,Pune,0,2,138
+547,Vistara,Chennai,Pune,20,4,140
+548,Vistara,Ahmedabad,Delhi,9,1,143
+549,Akasa Air,Mumbai,Hyderabad,5,1,145
+550,Akasa Air,Bangalore,Chennai,22,2,164
+551,SpiceJet,Mumbai,Bangalore,11,1,147
+552,SpiceJet,Mumbai,Chennai,3,3,148
+553,Vistara,Hyderabad,Bangalore,12,1,136
+554,Air India,Delhi,Kolkata,16,2,187
+555,Air India,Ahmedabad,Bangalore,7,3,163
+556,SpiceJet,Chennai,Ahmedabad,19,3,180
+557,Air India,Ahmedabad,Mumbai,2,4,187
+558,SpiceJet,Delhi,Bangalore,11,1,193
+559,Akasa Air,Pune,Bangalore,6,2,144
+560,Vistara,Hyderabad,Delhi,11,4,186
+561,Indigo,Hyderabad,Pune,1,4,121
+562,Vistara,Delhi,Chennai,23,1,168
+563,SpiceJet,Kolkata,Chennai,13,1,189
+564,SpiceJet,Hyderabad,Kolkata,21,2,145
+565,Vistara,Ahmedabad,Kolkata,22,4,191
+566,SpiceJet,Delhi,Ahmedabad,4,2,146
+567,Air India,Hyderabad,Bangalore,8,4,137
+568,Air India,Mumbai,Hyderabad,20,4,173
+569,SpiceJet,Delhi,Chennai,10,4,120
+570,SpiceJet,Delhi,Kolkata,4,1,180
+571,Air India,Ahmedabad,Bangalore,2,4,122
+572,SpiceJet,Bangalore,Kolkata,16,4,187
+573,SpiceJet,Hyderabad,Ahmedabad,1,4,160
+574,Vistara,Hyderabad,Mumbai,23,3,156
+575,Indigo,Delhi,Mumbai,0,1,170
+576,Air India,Mumbai,Kolkata,6,3,134
+577,Vistara,Mumbai,Mumbai,13,1,127
+578,Indigo,Chennai,Kolkata,4,2,157
+579,SpiceJet,Mumbai,Bangalore,18,3,175
+580,SpiceJet,Hyderabad,Delhi,10,2,166
+581,Vistara,Kolkata,Hyderabad,22,4,129
+582,SpiceJet,Bangalore,Bangalore,1,2,197
+583,Akasa Air,Delhi,Delhi,7,2,168
+584,Vistara,Pune,Delhi,8,2,160
+585,Indigo,Bangalore,Chennai,2,2,149
+586,Vistara,Ahmedabad,Bangalore,1,1,124
+587,Air India,Ahmedabad,Bangalore,6,3,190
+588,Vistara,Kolkata,Kolkata,4,1,150
+589,SpiceJet,Pune,Delhi,20,1,171
+590,SpiceJet,Bangalore,Delhi,4,1,142
+591,Akasa Air,Mumbai,Delhi,19,2,167
+592,Akasa Air,Hyderabad,Kolkata,12,1,159
+593,Akasa Air,Kolkata,Chennai,20,3,125
+594,Indigo,Pune,Bangalore,19,1,157
+595,Akasa Air,Kolkata,Delhi,5,4,160
+596,Indigo,Bangalore,Mumbai,19,2,146
+597,Akasa Air,Hyderabad,Bangalore,17,4,194
+598,Indigo,Kolkata,Kolkata,1,3,188
+599,Vistara,Pune,Chennai,5,3,176
+600,Vistara,Delhi,Mumbai,8,3,136
+601,SpiceJet,Bangalore,Kolkata,2,3,190
+602,Indigo,Delhi,Pune,0,1,166
+603,Air India,Mumbai,Bangalore,0,2,198
+604,SpiceJet,Delhi,Pune,18,3,132
+605,Vistara,Delhi,Kolkata,4,4,130
+606,Indigo,Chennai,Kolkata,12,3,143
+607,Akasa Air,Bangalore,Kolkata,18,2,192
+608,Air India,Mumbai,Delhi,11,4,123
+609,Vistara,Delhi,Chennai,15,4,165
+610,SpiceJet,Ahmedabad,Delhi,18,4,137
+611,Indigo,Hyderabad,Chennai,2,1,162
+612,Air India,Pune,Hyderabad,11,3,199
+613,Indigo,Delhi,Delhi,4,1,152
+614,Akasa Air,Mumbai,Pune,1,4,129
+615,SpiceJet,Delhi,Chennai,21,1,192
+616,Indigo,Pune,Delhi,6,1,178
+617,Vistara,Mumbai,Bangalore,12,1,150
+618,SpiceJet,Bangalore,Kolkata,14,3,147
+619,Vistara,Mumbai,Chennai,21,4,179
+620,Indigo,Bangalore,Chennai,2,4,122
+621,SpiceJet,Mumbai,Delhi,20,3,174
+622,Vistara,Ahmedabad,Hyderabad,19,1,133
+623,Akasa Air,Kolkata,Delhi,4,1,177
+624,Akasa Air,Pune,Ahmedabad,23,2,134
+625,Indigo,Pune,Pune,7,2,121
+626,SpiceJet,Mumbai,Pune,21,2,143
+627,Air India,Kolkata,Chennai,0,3,197
+628,SpiceJet,Delhi,Chennai,7,4,183
+629,Akasa Air,Pune,Delhi,23,2,190
+630,Vistara,Ahmedabad,Pune,17,4,143
+631,Air India,Bangalore,Pune,19,4,146
+632,Indigo,Bangalore,Hyderabad,15,4,156
+633,Air India,Hyderabad,Bangalore,17,3,158
+634,Indigo,Chennai,Hyderabad,19,3,182
+635,Air India,Kolkata,Ahmedabad,11,3,198
+636,Indigo,Chennai,Mumbai,12,3,145
+637,Indigo,Chennai,Kolkata,12,2,184
+638,Air India,Bangalore,Hyderabad,9,1,123
+639,Air India,Ahmedabad,Ahmedabad,6,1,148
+640,Indigo,Ahmedabad,Delhi,13,1,120
+641,Akasa Air,Hyderabad,Bangalore,23,2,169
+642,Air India,Chennai,Delhi,15,1,130
+643,SpiceJet,Chennai,Kolkata,14,2,193
+644,Vistara,Mumbai,Ahmedabad,11,2,178
+645,Indigo,Mumbai,Mumbai,8,2,181
+646,Indigo,Mumbai,Bangalore,7,1,155
+647,Vistara,Delhi,Chennai,17,4,175
+648,Akasa Air,Chennai,Pune,22,1,140
+649,Vistara,Ahmedabad,Hyderabad,17,1,132
+650,Air India,Ahmedabad,Ahmedabad,12,3,128
+651,Vistara,Delhi,Delhi,17,2,130
+652,Indigo,Ahmedabad,Mumbai,14,4,194
+653,Vistara,Hyderabad,Pune,3,3,189
+654,SpiceJet,Kolkata,Hyderabad,16,4,120
+655,Air India,Bangalore,Pune,4,4,189
+656,Vistara,Chennai,Hyderabad,21,2,196
+657,Indigo,Ahmedabad,Ahmedabad,15,1,175
+658,Air India,Bangalore,Chennai,8,2,150
+659,Indigo,Ahmedabad,Bangalore,9,2,156
+660,Akasa Air,Kolkata,Ahmedabad,23,3,166
+661,SpiceJet,Mumbai,Pune,17,2,197
+662,Akasa Air,Chennai,Pune,16,1,166
+663,SpiceJet,Pune,Pune,17,4,188
+664,Vistara,Delhi,Bangalore,6,2,177
+665,Air India,Delhi,Mumbai,3,4,155
+666,Vistara,Chennai,Hyderabad,4,2,151
+667,SpiceJet,Kolkata,Ahmedabad,22,4,183
+668,SpiceJet,Mumbai,Ahmedabad,15,2,190
+669,SpiceJet,Delhi,Chennai,2,3,161
+670,Indigo,Mumbai,Pune,17,4,167
+671,Air India,Hyderabad,Kolkata,22,2,193
+672,Vistara,Bangalore,Ahmedabad,20,2,149
+673,Vistara,Kolkata,Bangalore,13,3,140
+674,Akasa Air,Pune,Mumbai,14,3,179
+675,SpiceJet,Bangalore,Ahmedabad,16,3,132
+676,SpiceJet,Bangalore,Hyderabad,0,4,120
+677,SpiceJet,Hyderabad,Bangalore,20,4,184
+678,Vistara,Delhi,Chennai,16,3,152
+679,Akasa Air,Pune,Chennai,22,1,157
+680,Indigo,Delhi,Hyderabad,10,1,144
+681,Air India,Chennai,Pune,16,2,145
+682,Indigo,Bangalore,Chennai,13,1,196
+683,Vistara,Chennai,Mumbai,19,2,178
+684,SpiceJet,Mumbai,Bangalore,18,4,152
+685,Air India,Bangalore,Ahmedabad,20,4,160
+686,Vistara,Delhi,Mumbai,6,1,149
+687,Vistara,Bangalore,Pune,23,4,176
+688,Vistara,Mumbai,Mumbai,12,3,168
+689,Air India,Hyderabad,Mumbai,17,3,167
+690,Air India,Chennai,Delhi,22,1,191
+691,Akasa Air,Ahmedabad,Mumbai,13,1,168
+692,Akasa Air,Chennai,Hyderabad,0,2,166
+693,Indigo,Delhi,Bangalore,6,4,175
+694,Air India,Bangalore,Delhi,7,2,184
+695,Air India,Delhi,Bangalore,17,2,131
+696,Air India,Hyderabad,Bangalore,8,3,188
+697,Akasa Air,Bangalore,Pune,0,3,125
+698,Vistara,Ahmedabad,Pune,21,3,184
+699,SpiceJet,Bangalore,Delhi,16,3,144
+700,Akasa Air,Ahmedabad,Chennai,18,2,120
+701,Air India,Delhi,Kolkata,5,3,151
+702,Akasa Air,Delhi,Pune,2,4,122
+703,Indigo,Mumbai,Kolkata,23,3,168
+704,Air India,Kolkata,Pune,4,3,138
+705,Indigo,Kolkata,Pune,1,3,179
+706,Air India,Hyderabad,Bangalore,19,1,148
+707,Akasa Air,Kolkata,Delhi,3,4,169
+708,Vistara,Mumbai,Bangalore,9,4,121
+709,SpiceJet,Chennai,Ahmedabad,9,2,192
+710,Indigo,Ahmedabad,Hyderabad,23,2,175
+711,Akasa Air,Bangalore,Bangalore,20,3,136
+712,Vistara,Delhi,Kolkata,10,1,179
+713,Akasa Air,Bangalore,Kolkata,15,2,155
+714,Indigo,Bangalore,Hyderabad,16,2,180
+715,SpiceJet,Pune,Mumbai,15,3,136
+716,Akasa Air,Chennai,Mumbai,6,3,168
+717,Air India,Pune,Hyderabad,15,2,195
+718,Vistara,Kolkata,Hyderabad,2,2,179
+719,Akasa Air,Bangalore,Bangalore,15,4,139
+720,Vistara,Ahmedabad,Hyderabad,7,1,169
+721,Air India,Delhi,Ahmedabad,11,4,122
+722,SpiceJet,Ahmedabad,Delhi,2,2,162
+723,SpiceJet,Bangalore,Mumbai,16,4,176
+724,Air India,Chennai,Mumbai,20,4,169
+725,Vistara,Ahmedabad,Ahmedabad,17,2,187
+726,Akasa Air,Pune,Chennai,10,3,169
+727,Air India,Delhi,Ahmedabad,3,2,156
+728,Indigo,Bangalore,Ahmedabad,15,3,165
+729,Vistara,Hyderabad,Hyderabad,16,2,161
+730,SpiceJet,Chennai,Pune,8,2,134
+731,Air India,Chennai,Pune,5,2,152
+732,SpiceJet,Hyderabad,Ahmedabad,23,1,199
+733,Vistara,Ahmedabad,Hyderabad,19,3,130
+734,SpiceJet,Bangalore,Delhi,1,1,139
+735,Air India,Chennai,Pune,8,2,143
+736,Vistara,Delhi,Chennai,20,4,183
+737,Indigo,Bangalore,Kolkata,5,1,199
+738,Air India,Bangalore,Hyderabad,2,3,184
+739,Akasa Air,Pune,Ahmedabad,19,2,192
+740,Air India,Chennai,Delhi,5,1,195
+741,Vistara,Chennai,Delhi,6,4,136
+742,Air India,Hyderabad,Bangalore,0,1,180
+743,Indigo,Pune,Delhi,22,3,134
+744,Indigo,Ahmedabad,Pune,0,1,170
+745,Akasa Air,Kolkata,Ahmedabad,4,4,146
+746,SpiceJet,Ahmedabad,Kolkata,5,4,193
+747,Vistara,Ahmedabad,Pune,12,3,180
+748,Vistara,Pune,Hyderabad,1,4,177
+749,SpiceJet,Chennai,Kolkata,14,2,150
+750,Indigo,Bangalore,Hyderabad,14,4,131
+751,Indigo,Pune,Delhi,12,2,165
+752,Air India,Hyderabad,Chennai,13,1,150
+753,Akasa Air,Pune,Mumbai,21,2,151
+754,Akasa Air,Hyderabad,Kolkata,6,2,151
+755,Akasa Air,Ahmedabad,Ahmedabad,13,1,172
+756,Air India,Kolkata,Bangalore,23,4,180
+757,Akasa Air,Pune,Mumbai,9,2,165
+758,SpiceJet,Hyderabad,Delhi,16,4,193
+759,Air India,Pune,Delhi,13,1,199
+760,SpiceJet,Kolkata,Ahmedabad,7,3,126
+761,Air India,Ahmedabad,Mumbai,3,4,123
+762,Akasa Air,Pune,Bangalore,15,4,171
+763,SpiceJet,Delhi,Kolkata,23,3,150
+764,SpiceJet,Hyderabad,Kolkata,12,3,194
+765,SpiceJet,Kolkata,Mumbai,21,1,155
+766,Air India,Hyderabad,Hyderabad,19,4,173
+767,Vistara,Hyderabad,Pune,17,4,173
+768,Akasa Air,Mumbai,Chennai,13,1,136
+769,SpiceJet,Kolkata,Hyderabad,17,4,194
+770,Vistara,Pune,Kolkata,4,2,149
+771,Akasa Air,Hyderabad,Pune,8,2,141
+772,Akasa Air,Chennai,Chennai,2,2,162
+773,SpiceJet,Mumbai,Chennai,7,4,146
+774,SpiceJet,Delhi,Chennai,19,2,156
+775,Air India,Hyderabad,Delhi,21,2,165
+776,Vistara,Ahmedabad,Ahmedabad,9,1,154
+777,Vistara,Hyderabad,Chennai,21,1,123
+778,SpiceJet,Mumbai,Bangalore,18,3,199
+779,Akasa Air,Pune,Mumbai,20,3,199
+780,SpiceJet,Chennai,Kolkata,2,3,145
+781,Akasa Air,Ahmedabad,Bangalore,10,3,138
+782,Akasa Air,Delhi,Mumbai,10,1,164
+783,SpiceJet,Ahmedabad,Hyderabad,16,1,145
+784,Indigo,Hyderabad,Ahmedabad,15,1,141
+785,Vistara,Pune,Hyderabad,6,2,177
+786,Akasa Air,Kolkata,Mumbai,3,2,182
+787,Akasa Air,Chennai,Bangalore,22,3,147
+788,Indigo,Kolkata,Mumbai,18,2,184
+789,Air India,Chennai,Chennai,11,4,163
+790,Indigo,Delhi,Delhi,14,1,162
+791,Indigo,Bangalore,Kolkata,10,3,156
+792,Akasa Air,Chennai,Hyderabad,4,3,185
+793,Vistara,Bangalore,Kolkata,4,4,136
+794,Indigo,Kolkata,Delhi,14,2,159
+795,Air India,Chennai,Chennai,17,3,157
+796,SpiceJet,Delhi,Chennai,10,2,180
+797,Indigo,Mumbai,Hyderabad,11,2,128
+798,Indigo,Delhi,Hyderabad,1,4,196
+799,Air India,Delhi,Chennai,19,3,194
+800,Vistara,Mumbai,Pune,14,2,180
+801,Indigo,Mumbai,Kolkata,19,2,199
+802,Indigo,Pune,Ahmedabad,3,4,135
+803,Vistara,Chennai,Delhi,21,4,121
+804,Air India,Kolkata,Kolkata,17,2,191
+805,Indigo,Pune,Delhi,5,4,162
+806,Vistara,Mumbai,Pune,22,2,161
+807,Indigo,Bangalore,Ahmedabad,18,3,196
+808,SpiceJet,Kolkata,Bangalore,10,1,176
+809,Akasa Air,Bangalore,Delhi,23,4,186
+810,SpiceJet,Delhi,Kolkata,1,1,149
+811,Indigo,Hyderabad,Mumbai,7,2,132
+812,Air India,Delhi,Ahmedabad,10,2,138
+813,Akasa Air,Delhi,Chennai,4,2,126
+814,SpiceJet,Hyderabad,Chennai,17,1,128
+815,Vistara,Chennai,Pune,22,2,173
+816,Air India,Mumbai,Delhi,17,4,180
+817,SpiceJet,Bangalore,Bangalore,13,3,121
+818,Vistara,Delhi,Delhi,21,3,169
+819,Indigo,Hyderabad,Chennai,9,4,194
+820,Vistara,Pune,Hyderabad,2,3,150
+821,SpiceJet,Delhi,Mumbai,8,1,152
+822,SpiceJet,Bangalore,Ahmedabad,2,2,197
+823,Indigo,Mumbai,Pune,10,2,199
+824,Vistara,Delhi,Hyderabad,11,2,130
+825,Vistara,Delhi,Kolkata,11,1,152
+826,Indigo,Chennai,Bangalore,2,1,126
+827,Vistara,Ahmedabad,Hyderabad,20,1,150
+828,Indigo,Hyderabad,Kolkata,6,4,167
+829,Air India,Pune,Hyderabad,13,1,166
+830,SpiceJet,Pune,Bangalore,23,3,197
+831,Air India,Kolkata,Ahmedabad,10,4,172
+832,Akasa Air,Mumbai,Hyderabad,6,4,199
+833,Akasa Air,Kolkata,Pune,20,4,138
+834,Akasa Air,Bangalore,Chennai,9,1,125
+835,Indigo,Mumbai,Delhi,10,4,168
+836,Vistara,Delhi,Hyderabad,14,1,192
+837,Air India,Ahmedabad,Pune,18,1,169
+838,Air India,Delhi,Delhi,15,4,131
+839,Air India,Pune,Ahmedabad,21,2,142
+840,Air India,Bangalore,Kolkata,20,2,173
+841,Akasa Air,Hyderabad,Delhi,19,4,188
+842,Air India,Bangalore,Kolkata,11,2,178
+843,Vistara,Delhi,Hyderabad,17,3,155
+844,Akasa Air,Hyderabad,Pune,22,3,122
+845,Air India,Bangalore,Chennai,12,1,177
+846,Indigo,Ahmedabad,Hyderabad,4,2,174
+847,SpiceJet,Ahmedabad,Kolkata,3,3,176
+848,SpiceJet,Bangalore,Bangalore,13,4,136
+849,SpiceJet,Hyderabad,Delhi,7,2,158
+850,Akasa Air,Delhi,Hyderabad,8,3,187
+851,Air India,Bangalore,Kolkata,18,3,174
+852,Akasa Air,Hyderabad,Ahmedabad,2,4,164
+853,Vistara,Chennai,Delhi,4,1,195
+854,Indigo,Ahmedabad,Ahmedabad,20,4,120
+855,Indigo,Chennai,Kolkata,17,1,140
+856,SpiceJet,Delhi,Pune,0,3,140
+857,SpiceJet,Hyderabad,Mumbai,7,1,171
+858,SpiceJet,Chennai,Ahmedabad,18,3,162
+859,Air India,Hyderabad,Hyderabad,16,3,171
+860,Vistara,Bangalore,Chennai,16,2,186
+861,Vistara,Delhi,Hyderabad,10,1,163
+862,Vistara,Chennai,Delhi,1,1,151
+863,Vistara,Kolkata,Pune,5,1,129
+864,SpiceJet,Bangalore,Kolkata,21,4,183
+865,Indigo,Ahmedabad,Bangalore,13,2,198
+866,SpiceJet,Kolkata,Chennai,2,2,188
+867,Vistara,Kolkata,Pune,11,2,187
+868,SpiceJet,Mumbai,Ahmedabad,3,4,147
+869,Vistara,Mumbai,Ahmedabad,11,1,172
+870,Akasa Air,Delhi,Hyderabad,12,1,170
+871,Indigo,Chennai,Bangalore,1,1,172
+872,Akasa Air,Chennai,Pune,1,2,123
+873,Air India,Chennai,Mumbai,14,2,198
+874,SpiceJet,Hyderabad,Chennai,22,3,136
+875,Air India,Bangalore,Delhi,16,4,186
+876,SpiceJet,Chennai,Pune,6,4,193
+877,Akasa Air,Bangalore,Pune,13,2,166
+878,Vistara,Delhi,Mumbai,11,3,175
+879,Vistara,Kolkata,Hyderabad,16,1,142
+880,SpiceJet,Chennai,Kolkata,13,2,137
+881,Vistara,Delhi,Kolkata,5,4,120
+882,Akasa Air,Chennai,Chennai,18,4,154
+883,Vistara,Mumbai,Chennai,23,4,183
+884,Akasa Air,Pune,Delhi,5,1,177
+885,Air India,Delhi,Pune,17,4,178
+886,Akasa Air,Chennai,Bangalore,23,1,120
+887,Indigo,Ahmedabad,Pune,4,1,122
+888,Indigo,Pune,Kolkata,23,1,186
+889,Indigo,Delhi,Delhi,23,2,156
+890,SpiceJet,Ahmedabad,Pune,5,1,148
+891,SpiceJet,Ahmedabad,Mumbai,1,3,152
+892,SpiceJet,Hyderabad,Kolkata,7,4,180
+893,Akasa Air,Ahmedabad,Pune,14,2,123
+894,SpiceJet,Chennai,Pune,14,4,133
+895,Air India,Hyderabad,Kolkata,10,1,152
+896,Indigo,Mumbai,Bangalore,21,2,141
+897,Akasa Air,Chennai,Kolkata,21,3,167
+898,Indigo,Kolkata,Mumbai,23,1,122
+899,SpiceJet,Ahmedabad,Mumbai,0,4,142
+900,Akasa Air,Mumbai,Pune,17,3,187
+901,Vistara,Pune,Chennai,11,1,140
+902,Air India,Delhi,Bangalore,11,3,162
+903,SpiceJet,Ahmedabad,Pune,10,1,145
+904,SpiceJet,Bangalore,Kolkata,7,2,160
+905,Air India,Mumbai,Pune,6,1,157
+906,Air India,Bangalore,Delhi,22,2,130
+907,Vistara,Ahmedabad,Delhi,20,1,148
+908,SpiceJet,Bangalore,Chennai,1,1,179
+909,SpiceJet,Ahmedabad,Bangalore,10,4,186
+910,Indigo,Delhi,Hyderabad,21,3,184
+911,Akasa Air,Pune,Ahmedabad,9,3,180
+912,Akasa Air,Delhi,Delhi,2,3,138
+913,Indigo,Chennai,Hyderabad,19,1,165
+914,Akasa Air,Mumbai,Mumbai,9,1,168
+915,Air India,Bangalore,Delhi,17,1,141
+916,Akasa Air,Delhi,Delhi,13,2,197
+917,Akasa Air,Ahmedabad,Bangalore,17,2,176
+918,Indigo,Delhi,Chennai,23,4,133
+919,Vistara,Delhi,Hyderabad,7,1,163
+920,Akasa Air,Mumbai,Kolkata,9,3,135
+921,Akasa Air,Pune,Delhi,21,3,196
+922,Vistara,Kolkata,Delhi,12,4,131
+923,Indigo,Delhi,Bangalore,20,3,174
+924,Vistara,Mumbai,Bangalore,7,4,170
+925,Indigo,Bangalore,Chennai,3,1,158
+926,Air India,Ahmedabad,Hyderabad,3,3,152
+927,Indigo,Chennai,Mumbai,4,1,152
+928,Air India,Kolkata,Kolkata,0,2,148
+929,Air India,Hyderabad,Chennai,16,3,188
+930,Indigo,Kolkata,Ahmedabad,1,2,189
+931,SpiceJet,Ahmedabad,Mumbai,7,3,150
+932,Indigo,Kolkata,Pune,6,1,199
+933,Akasa Air,Ahmedabad,Delhi,14,4,150
+934,Akasa Air,Mumbai,Hyderabad,4,1,165
+935,SpiceJet,Hyderabad,Chennai,1,1,196
+936,Air India,Delhi,Delhi,6,1,171
+937,SpiceJet,Delhi,Hyderabad,7,3,129
+938,Akasa Air,Kolkata,Hyderabad,6,4,193
+939,SpiceJet,Mumbai,Hyderabad,6,2,160
+940,Indigo,Hyderabad,Delhi,13,1,196
+941,SpiceJet,Delhi,Chennai,20,3,122
+942,Air India,Bangalore,Kolkata,17,2,178
+943,Indigo,Pune,Bangalore,5,1,171
+944,Vistara,Pune,Delhi,3,2,153
+945,Akasa Air,Delhi,Ahmedabad,9,1,168
+946,Akasa Air,Hyderabad,Hyderabad,17,2,147
+947,SpiceJet,Chennai,Chennai,11,2,132
+948,Indigo,Delhi,Kolkata,15,4,188
+949,Vistara,Chennai,Pune,6,4,186
+950,Indigo,Chennai,Ahmedabad,5,1,180
+951,Akasa Air,Ahmedabad,Mumbai,4,3,179
+952,Indigo,Ahmedabad,Ahmedabad,2,4,190
+953,Vistara,Hyderabad,Hyderabad,11,2,143
+954,SpiceJet,Chennai,Pune,14,4,182
+955,Air India,Bangalore,Bangalore,9,4,180
+956,Indigo,Hyderabad,Kolkata,19,1,142
+957,Air India,Delhi,Kolkata,18,4,149
+958,Akasa Air,Kolkata,Hyderabad,15,4,179
+959,SpiceJet,Bangalore,Ahmedabad,10,2,137
+960,SpiceJet,Mumbai,Ahmedabad,7,4,175
+961,Indigo,Pune,Kolkata,2,2,172
+962,SpiceJet,Delhi,Pune,22,4,126
+963,Indigo,Delhi,Hyderabad,6,4,188
+964,Indigo,Delhi,Delhi,22,3,191
+965,Air India,Bangalore,Chennai,6,4,198
+966,SpiceJet,Mumbai,Pune,13,2,171
+967,Indigo,Kolkata,Chennai,1,2,123
+968,Air India,Hyderabad,Delhi,9,1,153
+969,Vistara,Ahmedabad,Delhi,18,1,188
+970,Air India,Mumbai,Chennai,8,3,152
+971,Air India,Bangalore,Pune,15,2,188
+972,Indigo,Delhi,Chennai,18,2,157
+973,Akasa Air,Pune,Chennai,17,2,145
+974,Akasa Air,Delhi,Mumbai,8,3,120
+975,Akasa Air,Hyderabad,Pune,15,2,123
+976,Air India,Chennai,Ahmedabad,12,1,158
+977,Indigo,Pune,Ahmedabad,9,3,173
+978,SpiceJet,Delhi,Mumbai,19,1,152
+979,Air India,Kolkata,Hyderabad,13,1,152
+980,Air India,Pune,Kolkata,11,3,191
+981,Indigo,Chennai,Ahmedabad,18,4,139
+982,Vistara,Ahmedabad,Chennai,6,4,135
+983,Air India,Mumbai,Hyderabad,22,1,140
+984,Vistara,Bangalore,Ahmedabad,14,4,164
+985,Vistara,Ahmedabad,Pune,15,2,181
+986,Akasa Air,Delhi,Chennai,7,3,150
+987,Indigo,Hyderabad,Kolkata,9,1,161
+988,Vistara,Mumbai,Hyderabad,3,2,131
+989,Indigo,Ahmedabad,Ahmedabad,18,4,184
+990,Akasa Air,Delhi,Ahmedabad,18,2,192
+991,Indigo,Mumbai,Bangalore,20,4,122
+992,Air India,Ahmedabad,Ahmedabad,14,1,128
+993,Vistara,Hyderabad,Delhi,13,2,170
+994,Indigo,Delhi,Chennai,0,3,135
+995,SpiceJet,Chennai,Kolkata,15,1,197
+996,Indigo,Chennai,Delhi,9,2,122
+997,Vistara,Hyderabad,Mumbai,18,2,143
+998,Akasa Air,Pune,Hyderabad,21,4,192
+999,Akasa Air,Hyderabad,Ahmedabad,2,1,132
+1000,Vistara,Pune,Mumbai,4,1,121
+1001,Air India,Delhi,Kolkata,8,1,190
+1002,Air India,Ahmedabad,Chennai,17,1,140
+1003,Akasa Air,Pune,Delhi,10,4,138
+1004,Akasa Air,Delhi,Delhi,15,3,166
+1005,Vistara,Delhi,Hyderabad,1,1,141
+1006,Air India,Kolkata,Chennai,11,4,194
+1007,Akasa Air,Bangalore,Ahmedabad,21,3,152
+1008,Air India,Delhi,Bangalore,5,3,151
+1009,Akasa Air,Pune,Bangalore,10,4,183
+1010,Indigo,Bangalore,Hyderabad,7,1,158
+1011,SpiceJet,Bangalore,Chennai,11,3,191
+1012,Indigo,Delhi,Hyderabad,1,1,161
+1013,Akasa Air,Hyderabad,Chennai,8,1,128
+1014,SpiceJet,Hyderabad,Kolkata,14,2,144
+1015,SpiceJet,Chennai,Kolkata,1,1,121
+1016,Akasa Air,Bangalore,Mumbai,0,2,138
+1017,Akasa Air,Delhi,Ahmedabad,9,3,139
+1018,Air India,Kolkata,Hyderabad,1,4,189
+1019,Akasa Air,Hyderabad,Ahmedabad,11,2,136
+1020,Vistara,Kolkata,Chennai,22,4,187
+1021,Akasa Air,Delhi,Bangalore,7,3,122
+1022,Vistara,Delhi,Ahmedabad,4,1,170
+1023,Akasa Air,Ahmedabad,Chennai,21,3,145
+1024,Air India,Bangalore,Kolkata,0,4,175
+1025,Vistara,Ahmedabad,Chennai,14,3,183
+1026,Indigo,Kolkata,Hyderabad,5,1,127
+1027,Vistara,Ahmedabad,Mumbai,11,3,156
+1028,Air India,Chennai,Mumbai,7,1,146
+1029,Vistara,Bangalore,Mumbai,12,2,164
+1030,Akasa Air,Mumbai,Mumbai,18,4,123
+1031,Akasa Air,Ahmedabad,Kolkata,0,1,156
+1032,Air India,Kolkata,Pune,10,1,190
+1033,SpiceJet,Hyderabad,Ahmedabad,19,3,152
+1034,Akasa Air,Hyderabad,Hyderabad,0,2,150
+1035,Indigo,Hyderabad,Delhi,7,1,174
+1036,Air India,Pune,Hyderabad,4,2,131
+1037,Vistara,Delhi,Pune,16,2,130
+1038,Vistara,Bangalore,Mumbai,7,3,191
+1039,Indigo,Hyderabad,Pune,9,1,151
+1040,Akasa Air,Mumbai,Bangalore,1,3,176
+1041,Air India,Hyderabad,Bangalore,8,4,157
+1042,Indigo,Chennai,Ahmedabad,23,4,179
+1043,Akasa Air,Delhi,Kolkata,22,1,138
+1044,Air India,Kolkata,Hyderabad,2,2,175
+1045,Vistara,Delhi,Hyderabad,17,1,133
+1046,Air India,Ahmedabad,Delhi,6,1,152
+1047,SpiceJet,Kolkata,Kolkata,14,4,129
+1048,Air India,Kolkata,Delhi,20,4,199
+1049,SpiceJet,Ahmedabad,Bangalore,21,2,183
+1050,Air India,Bangalore,Mumbai,19,2,183
+1051,SpiceJet,Ahmedabad,Pune,17,1,181
+1052,Vistara,Pune,Delhi,2,3,187
+1053,Akasa Air,Kolkata,Chennai,22,1,162
+1054,SpiceJet,Kolkata,Delhi,13,2,199
+1055,SpiceJet,Ahmedabad,Mumbai,23,3,178
+1056,Vistara,Bangalore,Mumbai,1,4,171
+1057,SpiceJet,Hyderabad,Hyderabad,13,2,138
+1058,Indigo,Chennai,Pune,21,2,140
+1059,Vistara,Mumbai,Mumbai,10,3,141
+1060,Indigo,Bangalore,Kolkata,15,2,128
+1061,Vistara,Pune,Delhi,7,2,128
+1062,SpiceJet,Bangalore,Delhi,6,2,192
+1063,Indigo,Delhi,Bangalore,10,2,146
+1064,SpiceJet,Hyderabad,Mumbai,2,2,136
+1065,Vistara,Hyderabad,Chennai,16,2,163
+1066,SpiceJet,Kolkata,Hyderabad,13,2,164
+1067,Indigo,Hyderabad,Pune,5,2,127
+1068,Indigo,Hyderabad,Chennai,7,4,199
+1069,SpiceJet,Ahmedabad,Hyderabad,21,2,137
+1070,Air India,Hyderabad,Delhi,4,4,152
+1071,Vistara,Hyderabad,Chennai,7,4,120
+1072,Vistara,Mumbai,Hyderabad,1,1,195
+1073,SpiceJet,Pune,Delhi,14,1,125
+1074,Air India,Kolkata,Delhi,11,4,160
+1075,Indigo,Ahmedabad,Delhi,16,4,174
+1076,Akasa Air,Hyderabad,Delhi,0,2,124
+1077,Akasa Air,Kolkata,Kolkata,14,1,178
+1078,SpiceJet,Pune,Delhi,13,3,199
+1079,Air India,Ahmedabad,Bangalore,19,1,137
+1080,Air India,Chennai,Chennai,21,4,168
+1081,Vistara,Hyderabad,Hyderabad,15,4,184
+1082,Indigo,Kolkata,Bangalore,8,2,173
+1083,Air India,Bangalore,Kolkata,0,2,180
+1084,Akasa Air,Ahmedabad,Ahmedabad,16,1,127
+1085,Indigo,Ahmedabad,Ahmedabad,12,2,122
+1086,Indigo,Kolkata,Bangalore,20,3,144
+1087,SpiceJet,Hyderabad,Mumbai,20,3,188
+1088,Air India,Delhi,Mumbai,4,2,174
+1089,SpiceJet,Mumbai,Mumbai,9,3,159
+1090,Air India,Bangalore,Pune,5,3,169
+1091,Vistara,Bangalore,Mumbai,23,1,152
+1092,SpiceJet,Delhi,Hyderabad,18,3,137
+1093,SpiceJet,Hyderabad,Bangalore,12,4,176
+1094,Akasa Air,Ahmedabad,Hyderabad,0,4,135
+1095,SpiceJet,Ahmedabad,Chennai,19,1,199
+1096,Air India,Mumbai,Mumbai,14,2,157
+1097,Akasa Air,Bangalore,Kolkata,13,1,160
+1098,SpiceJet,Mumbai,Pune,7,2,126
+1099,SpiceJet,Bangalore,Chennai,9,2,197
+1100,Vistara,Hyderabad,Kolkata,8,2,172
+1101,SpiceJet,Chennai,Pune,16,2,182
+1102,Indigo,Bangalore,Ahmedabad,8,2,151
+1103,Akasa Air,Chennai,Chennai,2,1,157
+1104,Indigo,Bangalore,Ahmedabad,10,2,141
+1105,Akasa Air,Ahmedabad,Bangalore,11,3,135
+1106,Vistara,Pune,Hyderabad,9,3,171
+1107,SpiceJet,Hyderabad,Delhi,16,2,148
+1108,SpiceJet,Delhi,Hyderabad,16,3,135
+1109,SpiceJet,Chennai,Mumbai,10,4,195
+1110,Akasa Air,Delhi,Ahmedabad,21,1,136
+1111,SpiceJet,Hyderabad,Kolkata,3,1,183
+1112,Indigo,Kolkata,Delhi,6,2,132
+1113,SpiceJet,Delhi,Pune,20,2,191
+1114,Vistara,Hyderabad,Ahmedabad,13,4,175
+1115,Indigo,Ahmedabad,Bangalore,6,2,124
+1116,SpiceJet,Delhi,Bangalore,23,3,131
+1117,SpiceJet,Chennai,Ahmedabad,7,4,160
+1118,Air India,Pune,Ahmedabad,0,3,122
+1119,Akasa Air,Delhi,Ahmedabad,23,1,152
+1120,Indigo,Chennai,Pune,21,3,169
+1121,Air India,Bangalore,Mumbai,3,1,175
+1122,Vistara,Hyderabad,Pune,11,3,128
+1123,Akasa Air,Mumbai,Chennai,23,1,169
+1124,Indigo,Kolkata,Kolkata,2,2,148
+1125,SpiceJet,Ahmedabad,Ahmedabad,12,3,158
+1126,Indigo,Mumbai,Kolkata,19,1,164
+1127,SpiceJet,Ahmedabad,Mumbai,5,3,136
+1128,Akasa Air,Hyderabad,Delhi,10,4,175
+1129,SpiceJet,Ahmedabad,Pune,22,2,165
+1130,Vistara,Pune,Mumbai,3,1,186
+1131,SpiceJet,Delhi,Kolkata,19,4,188
+1132,Vistara,Pune,Delhi,15,3,133
+1133,Akasa Air,Mumbai,Pune,6,4,186
+1134,Akasa Air,Kolkata,Bangalore,21,3,142
+1135,Indigo,Chennai,Pune,10,2,180
+1136,Vistara,Kolkata,Hyderabad,23,4,142
+1137,Vistara,Hyderabad,Pune,0,2,146
+1138,Air India,Hyderabad,Hyderabad,6,1,173
+1139,Air India,Pune,Delhi,11,3,129
+1140,Air India,Chennai,Pune,6,3,196
+1141,SpiceJet,Pune,Delhi,22,2,135
+1142,Air India,Delhi,Delhi,6,2,160
+1143,Vistara,Bangalore,Kolkata,9,1,174
+1144,SpiceJet,Chennai,Mumbai,15,4,180
+1145,Akasa Air,Bangalore,Delhi,7,3,168
+1146,Indigo,Kolkata,Delhi,8,3,192
+1147,Air India,Delhi,Kolkata,8,1,171
+1148,Akasa Air,Ahmedabad,Kolkata,1,1,121
+1149,Vistara,Ahmedabad,Pune,12,2,169
+1150,Indigo,Bangalore,Kolkata,12,2,162
+1151,Akasa Air,Mumbai,Pune,22,4,196
+1152,Indigo,Kolkata,Bangalore,22,1,127
+1153,Air India,Bangalore,Kolkata,3,4,178
+1154,Vistara,Delhi,Mumbai,23,1,184
+1155,Indigo,Bangalore,Delhi,11,3,131
+1156,Akasa Air,Hyderabad,Mumbai,16,1,123
+1157,Air India,Pune,Hyderabad,1,1,196
+1158,Air India,Mumbai,Ahmedabad,12,3,160
+1159,Akasa Air,Hyderabad,Kolkata,17,1,126
+1160,Akasa Air,Hyderabad,Delhi,14,4,188
+1161,Indigo,Delhi,Mumbai,7,2,188
+1162,SpiceJet,Pune,Kolkata,14,2,149
+1163,Air India,Pune,Kolkata,0,4,192
+1164,Indigo,Chennai,Ahmedabad,19,3,125
+1165,Akasa Air,Kolkata,Bangalore,9,1,138
+1166,Indigo,Mumbai,Bangalore,11,4,199
+1167,Akasa Air,Kolkata,Delhi,4,2,185
+1168,Vistara,Delhi,Hyderabad,8,2,129
+1169,Akasa Air,Mumbai,Bangalore,22,4,135
+1170,Akasa Air,Chennai,Ahmedabad,7,2,156
+1171,Akasa Air,Bangalore,Bangalore,15,4,198
+1172,SpiceJet,Hyderabad,Hyderabad,13,2,196
+1173,Akasa Air,Mumbai,Mumbai,12,4,196
+1174,Air India,Kolkata,Bangalore,22,1,151
+1175,Air India,Hyderabad,Ahmedabad,20,1,166
+1176,Indigo,Delhi,Pune,12,1,191
+1177,SpiceJet,Kolkata,Ahmedabad,4,1,162
+1178,Indigo,Bangalore,Chennai,15,2,155
+1179,Air India,Delhi,Chennai,10,3,145
+1180,Air India,Ahmedabad,Bangalore,21,4,129
+1181,Vistara,Bangalore,Mumbai,4,3,150
+1182,Akasa Air,Bangalore,Kolkata,12,2,148
+1183,Air India,Hyderabad,Mumbai,10,2,124
+1184,Indigo,Delhi,Ahmedabad,18,3,196
+1185,Indigo,Delhi,Delhi,2,3,120
+1186,Akasa Air,Mumbai,Pune,14,2,122
+1187,Akasa Air,Kolkata,Mumbai,6,2,186
+1188,Vistara,Ahmedabad,Hyderabad,6,4,190
+1189,SpiceJet,Delhi,Ahmedabad,5,1,154
+1190,Indigo,Mumbai,Pune,2,1,134
+1191,Akasa Air,Ahmedabad,Chennai,12,4,186
+1192,Indigo,Pune,Ahmedabad,6,3,149
+1193,Akasa Air,Pune,Pune,4,2,194
+1194,Air India,Ahmedabad,Hyderabad,22,3,162
+1195,Indigo,Pune,Bangalore,17,1,179
+1196,Air India,Chennai,Hyderabad,21,1,159
+1197,Indigo,Delhi,Hyderabad,7,3,184
+1198,SpiceJet,Chennai,Bangalore,16,1,148
+1199,Vistara,Kolkata,Bangalore,19,2,193
+1200,Air India,Delhi,Bangalore,0,4,138
